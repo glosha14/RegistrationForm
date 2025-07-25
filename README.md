@@ -20,19 +20,6 @@ Features
   - **Register**: Captures and displays user data in the table
   - **Exit**: Closes the application
 
-**No database needed**
-  - All data is managed in-memory (great for learning OOP + GUI basics!)
-
-
-
-Registration Form
-![Form](screenshots/form%20java%20application/Screenshot%202025-07-25%20223129.png)
-
-GUI in NetBeans
-![NetBeans GUI](screenshots/Jframe%20form/Screenshot%202025-07-25%20222634.png)
-
-For more images, check the [screenshots folder](./screenshots)
-
 
 Developer
 Gloria Wambui Mbugua
